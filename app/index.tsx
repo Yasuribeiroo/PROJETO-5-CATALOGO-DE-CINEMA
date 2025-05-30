@@ -16,7 +16,7 @@ const categories = [
     name: "Aventura",
     movies: [
       { title: "Indiana Jones", image: require("../assets/jon.jpeg"), page: "Avatar" },
-      { title: "Mortal Kombat", image: require("../assets/mortal.jpg"), page: "JurassicPark" },
+      { title: "Mortal Kombat", image: require("../assets/mortal.jpeg"), page: "JurassicPark" },
       { title: "MIB: Homens de Preto", image: require("../assets/mib.jpeg"), page: "IndianaJones" },
     ],
   },
@@ -33,8 +33,8 @@ const categories = [
     name: "Romance",
     movies: [
       { title: "A dama e o Vagabundo", image: require("../assets/dama.jpeg"), page: "Titanic" },
-      { title: "Simplemente acontece", image: require("../assets/simples.jpeg"), page: "DearJohn" },
-      { title: "Cinderela", image: require("../assets/cid.webp"), page: "Notebook" },
+      { title: "Simplemente acontece", image: require("../assets/simples.webp"), page: "DearJohn" },
+      { title: "Cinderela", image: require("../assets/cind.jpeg"), page: "Notebook" },
       { title: "Mulan", image: require("../assets/mu.jpeg"), page: "FiveFeetApart" },
     ],
   },

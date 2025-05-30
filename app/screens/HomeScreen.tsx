@@ -4,7 +4,7 @@ import { View, Text, Image, StyleSheet, ScrollView } from "react-native";
 export default function ToyStory() {
   return (
     <ScrollView style={styles.container}>
-      <Image source={require("../../assets/AnaMaria.webp")} style={styles.image} />
+      <Image source={require("../../assets/alice.jpeg")} style={styles.image} />
       <Text style={styles.title}>Toy Story</Text>
       <Text style={styles.label}>Sinopse:</Text>
       <Text style={styles.text}>
